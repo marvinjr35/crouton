@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dnschneid/crouton) 
+
 # crouton: Chromium OS Universal Chroot Environment
 
 crouton is a set of scripts that bundle up into an easy-to-use,
